@@ -2,39 +2,39 @@ As a Data Scientist, you work for Hass Consulting Company which is a real estate
 
 The following steps will be followed for a successfull completion of a project:
 
-Define the question, the metric for success, the context, experimental design taken.
+1. Define the question, the metric for success, the context, experimental design taken.
 
-Read and explore the given dataset.
+2. Read and explore the given dataset.
 
-Define the appropriateness of the available data to answer the given question.
+3. Define the appropriateness of the available data to answer the given question.
 
-Find and deal with outliers, anomalies, and missing data within the dataset.
+4. Find and deal with outliers, anomalies, and missing data within the dataset.
 
-Perform univariate, bivariate and multivariate analysis recording your observations.
+5. Perform univariate, bivariate and multivariate analysis recording your observations.
 
-Performing regression analysis:
+6. Performing regression analysis:
 
-  Multiple Linear Regression
+  a) Multiple Linear Regression
   
-  Quantile Regression
+  b) Quantile Regression
   
-  Ridge Regression
+  c) Ridge Regression
   
-  Lasso Regression
+  d) Lasso Regression
   
-  Elastic Net Regression
+  e) Elastic Net Regression
   
-Incorporate categorical independent variables into your models.
+7. Incorporate categorical independent variables into your models.
 
-Check for multicollinearity
+8. Check for multicollinearity
 
-Provide a recommendation based on your analysis. 
+9. Provide a recommendation based on your analysis. 
 
-Create residual plots for your models, and assess heteroskedasticity using Barlett's test.
+10. Create residual plots for your models, and assess heteroskedasticity using Barlett's test.
 
-Challenge your solution by providing insights on how you can make improvements in model improvement.
+11. Challenge your solution by providing insights on how you can make improvements in model improvement.
 
-Defining the Metric for Success
+12. Defining the Metric for Success
 
-Creating and determining the model that will give the most accurate prediction for the prices of the houses
+13. Creating and determining the model that will give the most accurate prediction for the prices of the houses
 
