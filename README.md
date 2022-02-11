@@ -14,15 +14,15 @@ The following steps will be followed for a successfull completion of a project:
 
 6. Performing regression analysis:
 
-  a) Multiple Linear Regression
+    a) Multiple Linear Regression
   
-  b) Quantile Regression
+    b) Quantile Regression
   
-  c) Ridge Regression
+    c) Ridge Regression
   
-  d) Lasso Regression
+    d) Lasso Regression
   
-  e) Elastic Net Regression
+    e) Elastic Net Regression
   
 7. Incorporate categorical independent variables into your models.
 
